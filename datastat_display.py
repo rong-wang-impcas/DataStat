@@ -8,7 +8,7 @@ def display_data(data):
     ##plt.xlabel("Index")
     plt.xlabel("Line number")
     plt.ylabel("Value")
-    plt.title("Data Array")
+    plt.title("Data Distribution")
     plt.grid(True)
     plt.show()
 
